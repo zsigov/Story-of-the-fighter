@@ -1,0 +1,139 @@
+﻿body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    position: absolute;
+    left: 33%;
+    color: navajowhite;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5 {
+    color: white
+}
+
+p {
+    color: white
+}
+
+td {
+    color: white
+}
+
+#DivDisplayFight {
+    position: absolute;
+    top: 107px;
+    left: 35%;
+    width: 400px;
+    height: 500px;
+    background-color: #0040ff;
+    text-align: center;
+    vertical-align: middle;
+    overflow: scroll;
+}
+
+#DivDisplayControlPanel {
+    position: absolute;
+    left: 62%;
+    top:107px;
+}
+
+#tblControlPanel {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+    background-color: black;
+    width: 274px;
+    white-space: pre-wrap;
+}
+
+#btnSpeedUp, #btnSlowDown {
+    position: relative;
+    background-color: #ff1a1a;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: 24px;
+    color: white;
+    width: 80px;
+    border-radius: 50%;
+    outline: none;
+}
+
+#lblStopButtonMSG {
+    background-color: red;
+    position: relative;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
+
+#DivFinishBattle {
+    position: absolute;
+    top: 640px;
+    left: 40%;
+    text-align: center;
+    color: white;
+}
+
+#ImageEnemy1{
+    position:absolute;
+    right:0px;
+    top:0px;
+}
+
+#tblEnemey {
+    position: absolute;   
+    top: 0px;
+}
+
+#PlayerImage {
+    position: relative;
+}
+
+#btnStartFight, #btnStopFight, #btnContinueGame{
+    margin: 28px;
+    background-color: #ff1a1a;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 24px;
+    color: white;
+    border-radius: 50%;
+    outline: none;
+}
+
+.label1 {
+    color: white;
+}
+
+.label2 {
+    color: white;
+    text-align: center;
+}
+
+.divPlayerCharacter {
+    position: fixed;
+    top: 100px;
+    left: 20px;
+    float: left;
+    width: 500px;
+    margin-top: 0px
+}
+
+.divEnemie {
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    width: 400px;
+    height: 220px;
+    margin-top: 0px
+}
+
+
+

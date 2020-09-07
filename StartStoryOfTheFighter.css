@@ -1,0 +1,159 @@
+﻿body {
+    Color: #FFFFFF;
+    background: url(Images/Backgrounds/CaveEnterance.jpg);
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+form{
+    position:relative;
+}
+
+img {
+    height: 250px;
+    width: 180px;
+}
+
+td {
+    font-size: x-large;
+}
+
+#divPlayerAttributes {
+    position:absolute;
+    top:0px;
+    left:187px;
+    width: 350px;
+    display: inline-block;
+}
+
+#divLevelXPEquipments {
+    position: absolute;
+    top: 0px;
+    left: 417px;
+    width: 350px;
+    display: inline-block;  
+}
+
+    #divLevelXPEquipments td {
+        vertical-align: top
+    }
+
+    #divPlayerWeapons {
+        position: absolute;
+        top: 150px;
+        left: 187px;
+        width: 900px;
+    }
+
+#BackPackButton {
+    Height: 126px;
+    Width: 110px;
+    border-radius: 70%;
+    margin-top: 0px;
+    outline: none;
+    padding-left: 30px;
+}
+
+    #BackPackButton:hover {
+        transform: translateY(5px);
+    }
+
+#DivStoryDisplay{
+    position:relative;
+    top:15px;
+}
+
+#StoryText {
+    background-color: #CCFFCC;
+    border: 2px Solid Lime;
+    color: Black;
+    Height: 120px;
+    Width: 1000px;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: x-large;
+}
+
+#StoryCoiceList {
+    position:relative;
+    top:15px;
+    color: white;
+    text-decoration-color: white;
+    font-size: x-large;
+    border: 2px double #33CC33;
+    background-color: Black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial;
+    font-size: x-large;
+    height: 100px;
+}
+
+#ButtonBeginFight {
+    border-radius: 50%;
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    outline: none;
+    display: inline-block;
+    font-family: 'Monotype Corsiva';
+    font-size: large;
+    color: black;
+    font-weight: bold;
+    margin: 0px 20px;
+}
+    #ButtonBeginFight:hover {
+        transform: translateY(5px);
+    }
+
+
+#divFunctionButtons {
+    position: relative;
+    top: 50px;
+}
+
+#ListBox1{
+    position:relative;
+    top:60px;
+}
+
+#lblMessage{
+    position:relative;
+    left:20px;
+    top:7px;
+    font-size:large;
+}
+
+
+.buttonBaseControll {
+    display: inline-block;
+    border-radius: 50%;
+    width: 200px;
+    height: 50px;
+    background-color: azure;
+    display: inline-block;
+    outline: none;
+    font-family: 'Monotype Corsiva';
+    font-size: large;
+    color: black;
+    font-weight: bold;
+    margin: 0px 20px;
+}
+
+    .buttonBaseControll:hover {
+        background-color: #00b3b3;
+        transform: translateY(5px);
+    }
+
+
+.label {
+    color: white;
+    text-decoration-color: white;
+    font-size: x-large;
+}
+
+
+
