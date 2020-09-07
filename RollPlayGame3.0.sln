@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollPlayGame3.0", "RollPlayGame3.0\RollPlayGame3.0.csproj", "{2FE6F995-2E90-4441-8209-7F321B800508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolePlayGame 2.0", "..\..\C# Consol\RolePlayGame 2.0\RolePlayGame 2.0\RolePlayGame 2.0.csproj", "{760CAC04-F1FB-4043-9A5C-56CCEB6EDD22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadStoryFiles", "ReadStoryFiles\ReadStoryFiles.csproj", "{A27D1992-567B-4C61-8BEE-229D20865305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpgFightWithAjax", "..\..\AJAX\Ajax1\RpgFightWithAjax\RpgFightWithAjax.csproj", "{0C55578E-0FBB-4E11-BC25-4744C58452C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE6F995-2E90-4441-8209-7F321B800508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE6F995-2E90-4441-8209-7F321B800508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE6F995-2E90-4441-8209-7F321B800508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE6F995-2E90-4441-8209-7F321B800508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760CAC04-F1FB-4043-9A5C-56CCEB6EDD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760CAC04-F1FB-4043-9A5C-56CCEB6EDD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760CAC04-F1FB-4043-9A5C-56CCEB6EDD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760CAC04-F1FB-4043-9A5C-56CCEB6EDD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27D1992-567B-4C61-8BEE-229D20865305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27D1992-567B-4C61-8BEE-229D20865305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27D1992-567B-4C61-8BEE-229D20865305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27D1992-567B-4C61-8BEE-229D20865305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C55578E-0FBB-4E11-BC25-4744C58452C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C55578E-0FBB-4E11-BC25-4744C58452C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C55578E-0FBB-4E11-BC25-4744C58452C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C55578E-0FBB-4E11-BC25-4744C58452C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3347E4-003F-4F5F-B4DC-54022F4B4A14}
+	EndGlobalSection
+EndGlobal
